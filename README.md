@@ -1,6 +1,6 @@
 # TP2DPBO2025C2
 # Janji
-Saya Muhammad Radhi Maulana dengan NIM 2311119 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Muhammad Radhi Maulana dengan NIM 2311119 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 # Penjelasan Program
 Program ini adalah sistem manajemen produk sederhana untuk toko Isekai Konbini, yang memungkinkan pengguna untuk menambahkan dan melihat produk yang tersedia. Program ini dibangun dengan pendekatan berorientasi objek menggunakan empat file Python: Petshop.py untuk kelas dasar 'Petshop', Aksesoris.py untuk kelas 'Aksesoris' yang mewarisi 'Petshop', Baju.py untuk kelas 'Baju' yang mewarisi 'Aksesoris', dan Main.py sebagai program utama untuk mengelola interaksi dengan pengguna. Setiap kelas memiliki atribut dan metode yang sesuai untuk menangani informasi produk, seperti ID, nama, stok, harga, bahan, warna, ukuran, dan merek.  
 
